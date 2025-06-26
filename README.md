@@ -22,21 +22,21 @@ Una versión del explorador de Pokémon construida con un enfoque en los fundame
   <tr>
     <td align="center">
       Grid Desktop<br>
-      <img src="https://raw.githubusercontent.com/drbv27/pokemon-explorer-react/main/public/Screen1r.png" alt="Grid Desktop" width="400"/>
+      <img src="https://raw.githubusercontent.com/drbv27/pkemon-explorer-react/main/public/Screen1r.png" alt="Grid Desktop" width="400"/>
     </td>
     <td align="center">
       Table Desktop<br>
-      <img src="https://raw.githubusercontent.com/drbv27/pokemon-explorer-react/main/public/Screen2r.png" alt="Table Desktop" width="400"/>
+      <img src="https://raw.githubusercontent.com/drbv27/pkemon-explorer-react/main/public/Screen2r.png" alt="Table Desktop" width="400"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       Grid mobile<br>
-      <img src="https://raw.githubusercontent.com/drbv27/pokemon-explorer-react/main/public/Screen3r.png" alt="Grid Mobile" width="400"/>
+      <img src="https://raw.githubusercontent.com/drbv27/pkemon-explorer-react/main/public/Screen3r.png" alt="Grid Mobile" width="400"/>
     </td>
     <td align="center">
       Table mobile<br>
-      <img src="https://raw.githubusercontent.com/drbv27/pokemon-explorer-react/main/public/Screen4r.png" alt="Table mobile" width="400"/>
+      <img src="https://raw.githubusercontent.com/drbv27/pkemon-explorer-react/main/public/Screen4r.png" alt="Table mobile" width="400"/>
     </td>
   </tr>
   </table>

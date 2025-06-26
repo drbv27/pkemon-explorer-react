@@ -58,7 +58,7 @@ export const getColumns = (
         ))}
       </div>
     ),
-    filterFn: (row, columnId, value) => {
+    filterFn: (row, value) => {
       return value ? row.original.types.includes(value as string) : true;
     },
     sortingFn: (rowA, rowB) =>
