@@ -47,7 +47,7 @@ Una versión del explorador de Pokémon construida con un enfoque en los fundame
 
 Puedes explorar la aplicación desplegada aquí:
 
-[**https://tu-pokemon-explorer-vite.vercel.app**](https://tu-pokemon-explorer-vite.vercel.app)
+[**https://pokemon-explorer-react.vercel.app/**](https://pokemon-explorer-react.vercel.app/)
 
 ---
 
