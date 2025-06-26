@@ -96,13 +96,13 @@ Para levantar una copia local de la aplicación, sigue estos sencillos pasos:
 1.  **Clona el repositorio**
 
     ```bash
-    git clone [https://github.com/tu-usuario/pokemon-explorer-vite.git](https://github.com/tu-usuario/pokemon-explorer-vite.git)
+    git clone https://github.com/drbv27/pkemon-explorer-react
     ```
 
 2.  **Navega al directorio del proyecto**
 
     ```bash
-    cd pokemon-explorer-vite
+    cd pkemon-explorer-react
     ```
 
 3.  **Instala las dependencias**
